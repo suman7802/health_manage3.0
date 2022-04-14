@@ -1,0 +1,3 @@
+this file(code) need to be in sepret folder while running it as a project
+it will creat a txt files so for your advantage 
+please create a sepret folder for this file before use it
